@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paechoocah.0o0o0o0.online/sitemap.xml
